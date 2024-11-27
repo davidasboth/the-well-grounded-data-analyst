@@ -1,6 +1,6 @@
 # The Well-Grounded Data Analyst
 
-![Asboth-MEAP](https://github.com/davidasboth/solve-any-data-analysis-problem/assets/10253275/5f13aadb-eb84-4b0a-8c37-3cf79218175e)
+![The Well-Grounded Data Analyst](https://github.com/user-attachments/assets/ca0ae826-2a9b-4ae5-95be-57babd6c797f)
 
 Hello!
 
