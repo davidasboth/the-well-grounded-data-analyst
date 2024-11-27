@@ -6,7 +6,7 @@ Hello!
 
 This repository contains the accompanying data and example solution code for The Well-Grounded Data Analyst (Manning, 2025).
 
-You can buy the book here: [https://www.manning.com/books/the-well-grounded-data-analyst](https://www.manning.com/books/the-well-grounded-data-analyst)
+You can buy the book here: [http://mng.bz/ddZO](http://mng.bz/ddZO)
 
 In each chapter folder, you will find the data files required to attempt the project along with Jupyter notebooks containing the example solution code, which I walk through in great detail in the book.
 
