@@ -1,12 +1,12 @@
-# Solve Any Data Analysis Problem
+# The Well-Grounded Data Analyst
 
 ![Asboth-MEAP](https://github.com/davidasboth/solve-any-data-analysis-problem/assets/10253275/5f13aadb-eb84-4b0a-8c37-3cf79218175e)
 
 Hello!
 
-This repository contains the accompanying data and example solution code for Solve Any Data Analysis Problem (Manning, 2024).
+This repository contains the accompanying data and example solution code for The Well-Grounded Data Analyst (Manning, 2025).
 
-You can buy the book here: [http://mng.bz/ddZO](http://mng.bz/ddZO)
+You can buy the book here: [https://www.manning.com/books/the-well-grounded-data-analyst](https://www.manning.com/books/the-well-grounded-data-analyst)
 
 In each chapter folder, you will find the data files required to attempt the project along with Jupyter notebooks containing the example solution code, which I walk through in great detail in the book.
 
