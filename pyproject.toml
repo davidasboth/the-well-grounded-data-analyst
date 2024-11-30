@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "solve-any-data-analysis-problem"
+name = "the-well-grounded-data-analyst"
 version = "0.1.0"
 description = ""
 authors = ["David Asboth"]
